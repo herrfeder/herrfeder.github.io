@@ -1,0 +1,33 @@
+---
+layout: null
+---
+@import url(monokai.css);
+
+   #k-toc-card {
+	font-size: 3px;
+    	margin-top: 50px;
+    }
+
+    .mdui-m-t-5 {
+	height: 100px;
+
+    }
+
+    .dataframe-wrapper {
+	overflow-x: scroll;
+	}
+    
+    .dataframe {
+	  border-collapse: collapse;
+	  width: 100%;
+    }
+
+    .dataframe th, td {
+	  text-align: left;
+	  padding: 8px;
+    }
+
+    .dataframe tr:nth-child(even)  {
+          background-color: #f2f2f2;
+    }
+    }
